@@ -1,0 +1,121 @@
+Expense ID,Category,Payment method,Amount
+EXP-001,Groceries,Cash,135.45
+EXP-002,Utilities,Bank transfer,224.35
+EXP-003,Learning,Bank transfer,157.84
+EXP-004,Learning,Card,143.2
+EXP-005,Dining,Card,48.05
+EXP-006,Dining,Cash,85.93
+EXP-007,Transport,Card,133.72
+EXP-008,Utilities,Card,39.5
+EXP-009,Groceries,Card,173.64
+EXP-010,Transport,Cash,101.2
+EXP-011,Dining,Card,90.15
+EXP-012,Dining,Bank transfer,140.36
+EXP-013,Groceries,Card,42.94
+EXP-014,Learning,Card,157.62
+EXP-015,Dining,Cash,154.95
+EXP-016,Utilities,Bank transfer,106.13
+EXP-017,Dining,Card,175.6
+EXP-018,Groceries,Cash,103.44
+EXP-019,Dining,Bank transfer,158.62
+EXP-020,Utilities,Bank transfer,156.1
+EXP-021,Groceries,Card,95.75
+EXP-022,Learning,Card,9.71
+EXP-023,Dining,Card,178.35
+EXP-024,Dining,Cash,80.84
+EXP-025,Groceries,Cash,173.84
+EXP-026,Transport,Card,92.41
+EXP-027,Transport,Bank transfer,132.04
+EXP-028,Dining,Card,96.15
+EXP-029,Groceries,Cash,12.16
+EXP-030,Groceries,Cash,135.82
+EXP-031,Learning,Cash,165.51
+EXP-032,Utilities,Cash,33.57
+EXP-033,Groceries,Cash,46.16
+EXP-034,Learning,Cash,192.71
+EXP-035,Dining,Card,104.95
+EXP-036,Groceries,Card,104.72
+EXP-037,Utilities,Bank transfer,25.46
+EXP-038,Dining,Bank transfer,83.37
+EXP-039,Dining,Card,24.96
+EXP-040,Groceries,Bank transfer,121.21
+EXP-041,Dining,Cash,169.48
+EXP-042,Transport,Card,30.82
+EXP-043,Dining,Card,46.52
+EXP-044,Transport,Bank transfer,24.73
+EXP-045,Utilities,Cash,175.49
+EXP-046,Learning,Cash,159.21
+EXP-047,Learning,Bank transfer,149.04
+EXP-048,Learning,Cash,199.86
+EXP-049,Dining,Card,105.63
+EXP-050,Utilities,Cash,148.17
+EXP-051,Dining,Bank transfer,20.47
+EXP-052,Learning,Card,76.91
+EXP-053,Utilities,Card,20.63
+EXP-054,Dining,Card,151.12
+EXP-055,Groceries,Bank transfer,139.89
+EXP-056,Utilities,Cash,136.83
+EXP-057,Groceries,Cash,209.81
+EXP-058,Learning,Bank transfer,49.79
+EXP-059,Learning,Cash,119.3
+EXP-060,Groceries,Cash,30.98
+EXP-061,Dining,Bank transfer,26.72
+EXP-062,Transport,Card,63.0
+EXP-063,Utilities,Cash,124.34
+EXP-064,Learning,Card,88.79
+EXP-065,Dining,Cash,98.75
+EXP-066,Dining,Bank transfer,140.73
+EXP-067,Dining,Card,81.19
+EXP-068,Learning,Bank transfer,93.82
+EXP-069,Dining,Bank transfer,197.05
+EXP-070,Learning,Card,82.01
+EXP-071,Learning,Bank transfer,39.4
+EXP-072,Dining,Cash,222.83
+EXP-073,Utilities,Card,140.1
+EXP-074,Groceries,Cash,132.08
+EXP-075,Dining,Card,156.77
+EXP-076,Learning,Card,151.42
+EXP-077,Utilities,Bank transfer,88.33
+EXP-078,Dining,Cash,48.02
+EXP-079,Transport,Cash,218.38
+EXP-080,Utilities,Card,58.29
+EXP-081,Transport,Card,25.13
+EXP-082,Groceries,Bank transfer,179.13
+EXP-083,Learning,Card,154.95
+EXP-084,Learning,Card,140.59
+EXP-085,Transport,Card,48.15
+EXP-086,Learning,Card,168.1
+EXP-087,Groceries,Cash,88.87
+EXP-088,Transport,Cash,143.55
+EXP-089,Utilities,Card,126.55
+EXP-090,Dining,Cash,208.68
+EXP-091,Transport,Cash,158.58
+EXP-092,Learning,Cash,110.49
+EXP-093,Dining,Cash,119.65
+EXP-094,Utilities,Card,189.35
+EXP-095,Learning,Card,201.81
+EXP-096,Groceries,Bank transfer,114.69
+EXP-097,Dining,Bank transfer,215.41
+EXP-098,Learning,Card,71.28
+EXP-099,Transport,Cash,107.75
+EXP-100,Learning,Card,192.49
+EXP-101,Groceries,Card,189.31
+EXP-102,Dining,Card,100.11
+EXP-103,Utilities,Bank transfer,91.02
+EXP-104,Utilities,Card,91.23
+EXP-105,Groceries,Cash,214.64
+EXP-106,Dining,Card,38.55
+EXP-107,Dining,Cash,162.53
+EXP-108,Transport,Bank transfer,112.14
+EXP-109,Learning,Card,209.1
+EXP-110,Groceries,Cash,55.88
+EXP-111,Transport,Bank transfer,216.73
+EXP-112,Learning,Bank transfer,101.96
+EXP-113,Dining,Card,74.86
+EXP-114,Groceries,Card,101.2
+EXP-115,Learning,Cash,21.94
+EXP-116,Utilities,Bank transfer,127.0
+EXP-117,Learning,Bank transfer,61.71
+EXP-118,Transport,Cash,103.29
+EXP-119,Learning,Cash,61.41
+EXP-120,Utilities,Card,155.49

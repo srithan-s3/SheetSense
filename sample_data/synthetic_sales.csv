@@ -1,0 +1,241 @@
+Order ID,Date,Product,Category,Region,Units,Revenue
+ORD-0001,2025-01-01,Water bottle,Accessories,North,2,47.58
+ORD-0002,2025-01-01,Headphones,Electronics,South,4,511.08
+ORD-0003,2025-01-02,Water bottle,Accessories,North,12,278.95
+ORD-0004,2025-01-03,Desk lamp,Home,North,1,44.73
+ORD-0005,2025-01-04,Keyboard,Electronics,North,10,858.13
+ORD-0006,2025-01-04,Water bottle,Accessories,West,11,241.05
+ORD-0007,2025-01-05,Keyboard,Electronics,North,5,442.25
+ORD-0008,2025-01-06,Headphones,Electronics,West,12,1441.25
+ORD-0009,2025-01-07,Headphones,Electronics,East,4,461.99
+ORD-0010,2025-01-07,Backpack,Accessories,East,2,130.93
+ORD-0011,2025-01-08,Keyboard,Electronics,North,5,440.31
+ORD-0012,2025-01-09,Keyboard,Electronics,West,2,158.74
+ORD-0013,2025-01-10,Notebook,Stationery,East,11,127.59
+ORD-0014,2025-01-10,Water bottle,Accessories,North,2,47.0
+ORD-0015,2025-01-11,Notebook,Stationery,South,2,24.24
+ORD-0016,2025-01-12,Backpack,Accessories,West,5,316.99
+ORD-0017,2025-01-13,Notebook,Stationery,East,3,33.6
+ORD-0018,2025-01-13,Water bottle,Accessories,North,5,116.56
+ORD-0019,2025-01-14,Headphones,Electronics,South,9,1050.14
+ORD-0020,2025-01-15,Backpack,Accessories,South,5,319.37
+ORD-0021,2025-01-16,Desk lamp,Home,North,4,196.15
+ORD-0022,2025-01-16,Backpack,Accessories,North,5,296.29
+ORD-0023,2025-01-17,Keyboard,Electronics,East,12,973.9
+ORD-0024,2025-01-18,Backpack,Accessories,West,7,410.15
+ORD-0025,2025-01-19,Headphones,Electronics,East,4,511.9
+ORD-0026,2025-01-19,Backpack,Accessories,West,10,607.29
+ORD-0027,2025-01-20,Headphones,Electronics,West,9,1037.51
+ORD-0028,2025-01-21,Desk lamp,Home,South,2,95.46
+ORD-0029,2025-01-22,Water bottle,Accessories,North,7,157.54
+ORD-0030,2025-01-22,Keyboard,Electronics,East,8,730.27
+ORD-0031,2025-01-23,Desk lamp,Home,North,11,529.44
+ORD-0032,2025-01-24,Keyboard,Electronics,East,5,399.05
+ORD-0033,2025-01-25,Backpack,Accessories,West,3,171.69
+ORD-0034,2025-01-25,Water bottle,Accessories,East,12,295.43
+ORD-0035,2025-01-26,Headphones,Electronics,North,9,1173.28
+ORD-0036,2025-01-27,Notebook,Stationery,South,11,119.19
+ORD-0037,2025-01-28,Headphones,Electronics,North,9,1125.99
+ORD-0038,2025-01-28,Backpack,Accessories,North,1,66.26
+ORD-0039,2025-01-29,Notebook,Stationery,North,4,43.97
+ORD-0040,2025-01-30,Keyboard,Electronics,North,2,176.18
+ORD-0041,2025-01-31,Desk lamp,Home,South,9,396.57
+ORD-0042,2025-01-31,Backpack,Accessories,South,9,538.06
+ORD-0043,2025-02-01,Keyboard,Electronics,South,7,635.05
+ORD-0044,2025-02-02,Water bottle,Accessories,South,12,284.24
+ORD-0045,2025-02-03,Backpack,Accessories,East,11,676.19
+ORD-0046,2025-02-03,Keyboard,Electronics,North,8,653.04
+ORD-0047,2025-02-04,Desk lamp,Home,North,6,284.66
+ORD-0048,2025-02-05,Headphones,Electronics,South,10,1136.59
+ORD-0049,2025-02-06,Water bottle,Accessories,North,11,241.39
+ORD-0050,2025-02-06,Desk lamp,Home,North,6,281.39
+ORD-0051,2025-02-07,Notebook,Stationery,West,11,120.4
+ORD-0052,2025-02-08,Headphones,Electronics,West,12,1418.66
+ORD-0053,2025-02-09,Backpack,Accessories,South,7,406.84
+ORD-0054,2025-02-09,Water bottle,Accessories,East,7,158.51
+ORD-0055,2025-02-10,Backpack,Accessories,North,12,765.18
+ORD-0056,2025-02-11,Water bottle,Accessories,North,2,45.14
+ORD-0057,2025-02-12,Notebook,Stationery,South,2,21.81
+ORD-0058,2025-02-12,Keyboard,Electronics,South,8,671.62
+ORD-0059,2025-02-13,Notebook,Stationery,South,8,97.07
+ORD-0060,2025-02-14,Desk lamp,Home,North,8,347.93
+ORD-0061,2025-02-15,Keyboard,Electronics,North,1,90.69
+ORD-0062,2025-02-15,Headphones,Electronics,West,3,368.75
+ORD-0063,2025-02-16,Headphones,Electronics,North,7,816.94
+ORD-0064,2025-02-17,Desk lamp,Home,East,7,349.51
+ORD-0065,2025-02-18,Backpack,Accessories,West,5,319.96
+ORD-0066,2025-02-18,Water bottle,Accessories,West,9,195.1
+ORD-0067,2025-02-19,Notebook,Stationery,North,4,46.41
+ORD-0068,2025-02-20,Keyboard,Electronics,East,1,79.08
+ORD-0069,2025-02-21,Keyboard,Electronics,South,8,632.63
+ORD-0070,2025-02-21,Keyboard,Electronics,South,2,158.47
+ORD-0071,2025-02-22,Desk lamp,Home,South,11,506.97
+ORD-0072,2025-02-23,Keyboard,Electronics,North,4,346.35
+ORD-0073,2025-02-24,Backpack,Accessories,East,11,729.45
+ORD-0074,2025-02-24,Headphones,Electronics,East,11,1299.52
+ORD-0075,2025-02-25,Backpack,Accessories,East,3,184.97
+ORD-0076,2025-02-26,Desk lamp,Home,West,1,47.69
+ORD-0077,2025-02-27,Keyboard,Electronics,North,2,170.99
+ORD-0078,2025-02-27,Keyboard,Electronics,South,5,453.9
+ORD-0079,2025-02-28,Desk lamp,Home,East,4,180.86
+ORD-0080,2025-03-01,Backpack,Accessories,East,9,568.47
+ORD-0081,2025-03-02,Water bottle,Accessories,North,9,211.72
+ORD-0082,2025-03-02,Keyboard,Electronics,North,5,454.27
+ORD-0083,2025-03-03,Headphones,Electronics,North,5,653.68
+ORD-0084,2025-03-04,Water bottle,Accessories,South,9,198.9
+ORD-0085,2025-03-05,Keyboard,Electronics,East,4,324.15
+ORD-0086,2025-03-05,Water bottle,Accessories,West,5,110.12
+ORD-0087,2025-03-06,Desk lamp,Home,West,2,98.43
+ORD-0088,2025-03-07,Desk lamp,Home,East,1,48.79
+ORD-0089,2025-03-08,Water bottle,Accessories,South,5,118.94
+ORD-0090,2025-03-08,Keyboard,Electronics,West,12,1029.7
+ORD-0091,2025-03-09,Desk lamp,Home,South,2,94.26
+ORD-0092,2025-03-10,Notebook,Stationery,South,10,113.34
+ORD-0093,2025-03-11,Desk lamp,Home,East,5,248.64
+ORD-0094,2025-03-11,Desk lamp,Home,South,6,288.8
+ORD-0095,2025-03-12,Water bottle,Accessories,East,2,47.86
+ORD-0096,2025-03-13,Backpack,Accessories,South,10,662.26
+ORD-0097,2025-03-14,Headphones,Electronics,South,3,391.73
+ORD-0098,2025-03-14,Desk lamp,Home,East,3,146.61
+ORD-0099,2025-03-15,Backpack,Accessories,South,11,657.81
+ORD-0100,2025-03-16,Water bottle,Accessories,West,2,48.52
+ORD-0101,2025-03-17,Backpack,Accessories,South,4,260.65
+ORD-0102,2025-03-17,Backpack,Accessories,East,6,391.2
+ORD-0103,2025-03-18,Headphones,Electronics,North,4,505.17
+ORD-0104,2025-03-19,Backpack,Accessories,East,6,393.76
+ORD-0105,2025-03-20,Notebook,Stationery,West,6,70.7
+ORD-0106,2025-03-20,Keyboard,Electronics,North,6,479.16
+ORD-0107,2025-03-21,Notebook,Stationery,East,3,31.89
+ORD-0108,2025-03-22,Keyboard,Electronics,East,7,616.32
+ORD-0109,2025-03-23,Notebook,Stationery,North,7,78.77
+ORD-0110,2025-03-23,Keyboard,Electronics,East,4,315.65
+ORD-0111,2025-03-24,Backpack,Accessories,South,1,60.75
+ORD-0112,2025-03-25,Desk lamp,Home,East,11,524.7
+ORD-0113,2025-03-26,Water bottle,Accessories,East,2,45.89
+ORD-0114,2025-03-26,Water bottle,Accessories,East,7,157.98
+ORD-0115,2025-03-27,Notebook,Stationery,South,9,98.15
+ORD-0116,2025-03-28,Water bottle,Accessories,South,7,163.35
+ORD-0117,2025-03-29,Notebook,Stationery,North,7,77.75
+ORD-0118,2025-03-29,Headphones,Electronics,East,7,857.62
+ORD-0119,2025-03-30,Backpack,Accessories,South,11,684.02
+ORD-0120,2025-03-31,Water bottle,Accessories,North,3,66.42
+ORD-0121,2025-04-01,Water bottle,Accessories,East,11,236.02
+ORD-0122,2025-04-01,Headphones,Electronics,East,11,1296.53
+ORD-0123,2025-04-02,Headphones,Electronics,North,3,343.24
+ORD-0124,2025-04-03,Backpack,Accessories,North,10,616.4
+ORD-0125,2025-04-04,Water bottle,Accessories,South,10,237.06
+ORD-0126,2025-04-04,Backpack,Accessories,West,8,476.63
+ORD-0127,2025-04-05,Water bottle,Accessories,North,12,292.0
+ORD-0128,2025-04-06,Desk lamp,Home,South,7,310.89
+ORD-0129,2025-04-07,Water bottle,Accessories,West,9,191.71
+ORD-0130,2025-04-07,Headphones,Electronics,West,2,232.2
+ORD-0131,2025-04-08,Backpack,Accessories,East,11,731.09
+ORD-0132,2025-04-09,Backpack,Accessories,West,10,652.98
+ORD-0133,2025-04-10,Keyboard,Electronics,South,8,705.98
+ORD-0134,2025-04-10,Backpack,Accessories,East,8,516.24
+ORD-0135,2025-04-11,Water bottle,Accessories,West,5,116.88
+ORD-0136,2025-04-12,Notebook,Stationery,North,8,94.76
+ORD-0137,2025-04-13,Headphones,Electronics,East,5,598.53
+ORD-0138,2025-04-13,Keyboard,Electronics,South,2,160.67
+ORD-0139,2025-04-14,Backpack,Accessories,South,12,769.05
+ORD-0140,2025-04-15,Desk lamp,Home,West,7,318.86
+ORD-0141,2025-04-16,Backpack,Accessories,North,7,414.52
+ORD-0142,2025-04-16,Backpack,Accessories,North,7,458.87
+ORD-0143,2025-04-17,Keyboard,Electronics,West,7,548.79
+ORD-0144,2025-04-18,Notebook,Stationery,West,5,60.48
+ORD-0145,2025-04-19,Backpack,Accessories,South,9,557.64
+ORD-0146,2025-04-19,Notebook,Stationery,West,7,74.29
+ORD-0147,2025-04-20,Notebook,Stationery,West,11,130.5
+ORD-0148,2025-04-21,Backpack,Accessories,North,3,198.13
+ORD-0149,2025-04-22,Keyboard,Electronics,North,10,794.41
+ORD-0150,2025-04-22,Backpack,Accessories,West,3,176.92
+ORD-0151,2025-04-23,Notebook,Stationery,East,7,76.59
+ORD-0152,2025-04-24,Notebook,Stationery,West,6,66.37
+ORD-0153,2025-04-25,Backpack,Accessories,North,5,308.93
+ORD-0154,2025-04-25,Water bottle,Accessories,North,9,222.48
+ORD-0155,2025-04-26,Notebook,Stationery,North,4,47.86
+ORD-0156,2025-04-27,Water bottle,Accessories,North,1,24.54
+ORD-0157,2025-04-28,Headphones,Electronics,South,1,118.14
+ORD-0158,2025-04-28,Backpack,Accessories,North,11,689.69
+ORD-0159,2025-04-29,Headphones,Electronics,East,8,1026.88
+ORD-0160,2025-04-30,Headphones,Electronics,North,10,1285.7
+ORD-0161,2025-05-01,Headphones,Electronics,North,5,623.59
+ORD-0162,2025-05-01,Notebook,Stationery,West,10,112.74
+ORD-0163,2025-05-02,Water bottle,Accessories,North,4,93.01
+ORD-0164,2025-05-03,Water bottle,Accessories,North,4,94.52
+ORD-0165,2025-05-04,Notebook,Stationery,North,11,131.93
+ORD-0166,2025-05-04,Keyboard,Electronics,East,1,85.43
+ORD-0167,2025-05-05,Water bottle,Accessories,North,6,137.65
+ORD-0168,2025-05-06,Notebook,Stationery,West,1,12.04
+ORD-0169,2025-05-07,Desk lamp,Home,East,7,334.54
+ORD-0170,2025-05-07,Backpack,Accessories,South,12,737.35
+ORD-0171,2025-05-08,Water bottle,Accessories,East,9,210.04
+ORD-0172,2025-05-09,Keyboard,Electronics,West,8,673.08
+ORD-0173,2025-05-10,Water bottle,Accessories,East,10,222.8
+ORD-0174,2025-05-10,Headphones,Electronics,East,2,261.16
+ORD-0175,2025-05-11,Headphones,Electronics,West,8,960.23
+ORD-0176,2025-05-12,Backpack,Accessories,South,6,371.72
+ORD-0177,2025-05-13,Notebook,Stationery,East,5,55.32
+ORD-0178,2025-05-13,Keyboard,Electronics,East,12,1028.88
+ORD-0179,2025-05-14,Keyboard,Electronics,North,4,326.17
+ORD-0180,2025-05-15,Backpack,Accessories,South,8,511.47
+ORD-0181,2025-05-16,Water bottle,Accessories,West,12,272.8
+ORD-0182,2025-05-16,Desk lamp,Home,East,2,89.5
+ORD-0183,2025-05-17,Water bottle,Accessories,East,4,94.04
+ORD-0184,2025-05-18,Notebook,Stationery,East,8,90.61
+ORD-0185,2025-05-19,Water bottle,Accessories,East,9,201.48
+ORD-0186,2025-05-19,Backpack,Accessories,East,5,298.26
+ORD-0187,2025-05-20,Desk lamp,Home,South,12,545.27
+ORD-0188,2025-05-21,Water bottle,Accessories,South,9,196.29
+ORD-0189,2025-05-22,Water bottle,Accessories,East,8,189.83
+ORD-0190,2025-05-22,Keyboard,Electronics,East,10,914.1
+ORD-0191,2025-05-23,Headphones,Electronics,South,5,602.52
+ORD-0192,2025-05-24,Notebook,Stationery,South,1,11.05
+ORD-0193,2025-05-25,Desk lamp,Home,East,9,434.21
+ORD-0194,2025-05-25,Headphones,Electronics,West,11,1270.56
+ORD-0195,2025-05-26,Desk lamp,Home,East,10,465.7
+ORD-0196,2025-05-27,Backpack,Accessories,South,6,399.68
+ORD-0197,2025-05-28,Notebook,Stationery,North,8,96.32
+ORD-0198,2025-05-28,Backpack,Accessories,North,8,502.61
+ORD-0199,2025-05-29,Water bottle,Accessories,South,1,21.66
+ORD-0200,2025-05-30,Keyboard,Electronics,North,5,457.94
+ORD-0201,2025-05-31,Desk lamp,Home,West,9,428.19
+ORD-0202,2025-05-31,Keyboard,Electronics,West,4,337.34
+ORD-0203,2025-06-01,Backpack,Accessories,West,5,300.89
+ORD-0204,2025-06-02,Keyboard,Electronics,North,1,90.97
+ORD-0205,2025-06-03,Headphones,Electronics,South,11,1305.05
+ORD-0206,2025-06-03,Desk lamp,Home,South,3,133.19
+ORD-0207,2025-06-04,Desk lamp,Home,North,3,138.37
+ORD-0208,2025-06-05,Water bottle,Accessories,West,10,221.69
+ORD-0209,2025-06-06,Headphones,Electronics,East,5,635.61
+ORD-0210,2025-06-06,Backpack,Accessories,South,2,132.42
+ORD-0211,2025-06-07,Water bottle,Accessories,South,10,226.51
+ORD-0212,2025-06-08,Keyboard,Electronics,South,4,361.79
+ORD-0213,2025-06-09,Headphones,Electronics,North,2,233.46
+ORD-0214,2025-06-09,Notebook,Stationery,East,10,113.5
+ORD-0215,2025-06-10,Backpack,Accessories,East,12,768.27
+ORD-0216,2025-06-11,Notebook,Stationery,West,9,102.13
+ORD-0217,2025-06-12,Keyboard,Electronics,West,1,88.13
+ORD-0218,2025-06-12,Keyboard,Electronics,North,5,397.7
+ORD-0219,2025-06-13,Water bottle,Accessories,North,10,247.18
+ORD-0220,2025-06-14,Water bottle,Accessories,North,5,119.34
+ORD-0221,2025-06-15,Headphones,Electronics,West,8,1049.97
+ORD-0222,2025-06-15,Headphones,Electronics,West,10,1258.03
+ORD-0223,2025-06-16,Backpack,Accessories,West,2,121.19
+ORD-0224,2025-06-17,Notebook,Stationery,North,6,72.62
+ORD-0225,2025-06-18,Notebook,Stationery,West,7,77.55
+ORD-0226,2025-06-18,Backpack,Accessories,North,9,554.71
+ORD-0227,2025-06-19,Notebook,Stationery,East,5,53.84
+ORD-0228,2025-06-20,Backpack,Accessories,North,9,572.51
+ORD-0229,2025-06-21,Keyboard,Electronics,West,8,632.35
+ORD-0230,2025-06-21,Keyboard,Electronics,West,6,520.02
+ORD-0231,2025-06-22,Desk lamp,Home,East,4,188.63
+ORD-0232,2025-06-23,Notebook,Stationery,West,8,86.23
+ORD-0233,2025-06-24,Water bottle,Accessories,South,10,236.75
+ORD-0234,2025-06-24,Notebook,Stationery,North,9,103.99
+ORD-0235,2025-06-25,Desk lamp,Home,North,4,186.05
+ORD-0236,2025-06-26,Desk lamp,Home,South,11,514.61
+ORD-0237,2025-06-27,Water bottle,Accessories,East,5,113.08
+ORD-0238,2025-06-27,Backpack,Accessories,South,8,493.23
+ORD-0239,2025-06-28,Headphones,Electronics,South,7,919.51
+ORD-0240,2025-06-29,Keyboard,Electronics,South,12,1078.26
